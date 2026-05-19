@@ -308,5 +308,7 @@ footer{
   .section-title h2{
     font-size:2.2rem;
   }
-
+  .page-padding{
+    padding-top:160px;
+  }
 }
